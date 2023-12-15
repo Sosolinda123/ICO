@@ -1,1 +1,2 @@
 echo "SosoLinda"
+./Soso-ventura
